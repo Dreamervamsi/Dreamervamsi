@@ -15,6 +15,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dreamervamsi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://profile-counter.glitch.me/Dreamervamsi/count.svg)
-
+![Visitor Count](https://profile-counter.glitch.me/Dreamervamsi/count.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
