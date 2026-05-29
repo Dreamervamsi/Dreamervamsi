@@ -35,8 +35,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamervamsi&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 <br/>
 
-<br/>
-
 ## 🧠 About Me
 
 ```ts
