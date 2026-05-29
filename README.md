@@ -35,9 +35,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamervamsi&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 <br/>
 
-<!-- 🌿 CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sri11223&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff" width="100%" alt="Contribution Graph" />
-
 <br/>
 
 ## 🧠 About Me
