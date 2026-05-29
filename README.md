@@ -28,6 +28,17 @@
 > Actively building **production-level agentic tools**, exploring **MCP architecture**, and open to SDE & AI Engineer internships/roles.
 
 ---
+<br/>
+<div align="center">
+
+<!-- 🔥 STREAK -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamervamsi&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<br/>
+
+<!-- 🌿 CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sri11223&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff" width="100%" alt="Contribution Graph" />
+
+<br/>
 
 ## 🧠 About Me
 
@@ -40,3 +51,19 @@ const vamsiKrishna = {
   hackathons   : ["MindSprint Hackathon", "ByteQuest (Online)"],
   philosophy   : "Build to adapt. Ground every claim. Ship production-grade AI. 🚀",
 };
+```
+---
+## 🏗️ Featured Projects
+### Vajra - AI Safety Navigation System(https://github.com/Dreamervamsi/AI-powered-database-query-optimiser)
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krishna-2a56643b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dreamervamsi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvamsi.nellore@gmail.com)
+
+</div>
+
+---
