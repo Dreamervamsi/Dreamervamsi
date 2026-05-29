@@ -28,6 +28,23 @@
 > Actively building **production-level agentic tools**, exploring **MCP architecture**, and open to SDE & AI Engineer internships/roles.
 
 ---
+---
+
+## 📊 GitHub Stats
+
+### ⚡ My Coding Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dreamervamsi&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
+
+### 🏆 Profile Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dreamervamsi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)
+
+### 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamervamsi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400)
+
+### 🌿 Contribution Activity Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dreamervamsi&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff)
+
+---
 
 ## 🧠 About Me
 
