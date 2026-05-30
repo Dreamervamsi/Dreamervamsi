@@ -14,10 +14,10 @@
 <br/><br/>
 
 <!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=Dreamervamsi&label=Profile+Views&color=00d9ff&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Dreamervamsi?label=Followers&style=flat-square&color=00d9ff" />
-<img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20AI%20Engineer-%2300d9ff?style=flat-square" />
-<img src="https://img.shields.io/badge/CGPA-8.9%2F10-%2300d9ff?style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=Dreamervamsi&label=Profile+Views&color=00d9ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Dreamervamsi?label=Followers&style=flat-square&color=00d9ff)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20AI%20Engineer-%2300d9ff?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-%2300d9ff?style=flat-square)
 
 </div>
 
