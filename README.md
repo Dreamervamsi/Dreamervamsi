@@ -9,15 +9,15 @@
 <br/>
 
 <!-- Sub-banner with rotating roles -->
-<img src="https://demolab.com" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;AI+Systems+Builder;B.Tech+IT+@+Bapatla+Engineering+College;Building+Agentic+AI+%26+Hybrid+RAG;Open+to+SDE+%26+AI+Engineer+roles" alt="Roles" />
 
 <br/><br/>
 
 <!-- Badges -->
-![Profile Views](https://komarev.com)
-![Followers](https://shields.io)
-![Open to Work](https://shields.io)
-![CGPA](https://shields.io)
+![Profile Views](https://komarev.com/ghpvc/?username=Dreamervamsi&label=Profile+Views&color=00d9ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Dreamervamsi?label=Followers&style=flat-square&color=00d9ff)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20AI%20Engineer-%2300d9ff?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-%2300d9ff?style=flat-square)
 
 </div>
 
@@ -33,19 +33,16 @@
 ## 📊 GitHub Stats
 
 ### ⚡ My Coding Streak
-![GitHub Streak](https://demolab.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dreamervamsi&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
 
 ### 🏆 Profile Trophies
 ![GitHub Trophies](https://vercel.app)
 
-### 📈 Overview & Most Used Languages
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
+### 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamervamsi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ### 🌿 Contribution Activity Graph
-![Contribution Graph](https://vercel.app)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dreamervamsi&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff)
 
 ---
 
@@ -65,9 +62,8 @@ const vamsiKrishna = {
 
 <div align="center">
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![GitHub](https://shields.io)](https://github.com)
-[![Email](https://shields.io)](mailto:kvamsi.nellore@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-krishna-2a56643b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dreamervamsi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvamsi.nellore@gmail.com)
 
 </div>
-
