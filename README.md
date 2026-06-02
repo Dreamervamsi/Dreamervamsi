@@ -35,12 +35,6 @@
 ### ⚡ My Coding Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dreamervamsi&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
 
-### 🏆 Profile Trophies
-![GitHub Trophies](https://vercel.app)
-
-### 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamervamsi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ### 🌿 Contribution Activity Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dreamervamsi&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff)
 
