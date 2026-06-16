@@ -6,22 +6,40 @@
 
 *Building production AI agents that ground every claim and escalate when unsure.*
 
-<br/>
 
 <!-- Sub-banner with rotating roles -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;AI+Systems+Builder;B.Tech+IT+@+Bapatla+Engineering+College;Building+Agentic+AI+%26+Hybrid+RAG;Open+to+SDE+%26+AI+Engineer+roles" alt="Roles" />
 
-<br/><br/>
+<br/>
 
 <!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Dreamervamsi&label=Profile+Views&color=00d9ff&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Dreamervamsi?label=Followers&style=flat-square&color=00d9ff)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-SDE%20%7C%20AI%20Engineer-%2300d9ff?style=flat-square)
 ![CGPA](https://img.shields.io/badge/CGPA-8.9%2F10-%2300d9ff?style=flat-square)
+
+</div>
+
+## 🧠 About Me
+```ts
+const vamsiKrishna = {
+  role         : "Full-Stack Engineer & AI Systems Builder",
+  location     : "Andhra Pradesh, India 🇮🇳",
+  education    : "B.Tech IT @ Bapatla Engineering College | CGPA: 8.9/10",
+  currentlyOn  : ["AI Agent Safety", "Hybrid RAG Pipelines", "Agentic Workflows"],
+  hackathons   : ["MindSprint Hackathon", "ByteQuest (Online)"],
+  philosophy   : "Build to adapt. Ground every claim. Ship production-grade AI. 🚀",
+};
+```
+---
+## 🔨 Now — May 2026
+> Actively building **production-level agentic tools**, exploring **MCP architecture**, and open to SDE & AI Engineer internships/roles.
+---
+
+
+<div align="center">  
+
 ## 🛠️ Tech Stack
-
-<div align="center">
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,32 +67,19 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Dreamervamsi/Dreamervamsi/actions)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **AI / ML**
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E40C9?style=for-the-badge&logo=anthropic&logoColor=white)
-![RL GRPO](https://img.shields.io/badge/RL_(GRPO)-FF4F8B?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-1F2937?style=for-the-badge&logo=anthropic&logoColor=white)
-![A2A](https://img.shields.io/badge/A2A_Protocol-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-</div>
-
----
-
-## 🔨 Now — May 2026
-
-> Actively building **production-level agentic tools**, exploring **MCP architecture**, and open to SDE & AI Engineer internships/roles.
-
----
 ---
 
 ## 📊 GitHub Stats
@@ -86,19 +91,8 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dreamervamsi&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff)
 
 ---
+</div>
 
-## 🧠 About Me
-
-```ts
-const vamsiKrishna = {
-  role         : "Full-Stack Engineer & AI Systems Builder",
-  location     : "Andhra Pradesh, India 🇮🇳",
-  education    : "B.Tech IT @ Bapatla Engineering College | CGPA: 8.9/10",
-  currentlyOn  : ["AI Agent Safety", "Hybrid RAG Pipelines", "Agentic Workflows"],
-  hackathons   : ["MindSprint Hackathon", "ByteQuest (Online)"],
-  philosophy   : "Build to adapt. Ground every claim. Ship production-grade AI. 🚀",
-};
-```
 ## 🌐 Connect With Me
 
 <div align="center">
