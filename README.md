@@ -20,6 +20,8 @@
 
 </div>
 
+---
+
 ## 🧠 About Me
 ```ts
 const vamsiKrishna = {
