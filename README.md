@@ -21,6 +21,7 @@
 </div>
 
 ---
+<br/>
 
 ## 🧠 About Me
 ```ts
@@ -34,14 +35,20 @@ const vamsiKrishna = {
 };
 ```
 ---
+
+<br/>
+
 ## 🔨 Now — May 2026
 > Actively building **production-level agentic tools**, exploring **MCP architecture**, and open to SDE & AI Engineer internships/roles.
 ---
+
+<br/>
 
 
 <div align="center">  
 
 ## 🛠️ Tech Stack
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -83,6 +90,8 @@ const vamsiKrishna = {
 ![MCP](https://img.shields.io/badge/MCP_Protocol-1F2937?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
+
+<br/>
 
 ## 📊 GitHub Stats
 
