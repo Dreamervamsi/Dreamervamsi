@@ -6,11 +6,11 @@
 
 *Building production AI agents that ground every claim and escalate when unsure.*
 
-
+<br/><br/>
 <!-- Sub-banner with rotating roles -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;AI+Systems+Builder;B.Tech+IT+@+Bapatla+Engineering+College;Building+Agentic+AI+%26+Hybrid+RAG;Open+to+SDE+%26+AI+Engineer+roles" alt="Roles" />
 
-<br/>
+<br/><br/>
 
 <!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Dreamervamsi&label=Profile+Views&color=00d9ff&style=flat-square)
