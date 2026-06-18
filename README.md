@@ -95,13 +95,14 @@ const vamsiKrishna = {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Dreamervamsi&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Dreamervamsi&show_icons=true&theme=github_dark)
 
 ### ⚡ My Coding Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dreamervamsi&theme=tokyonight&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dreamervamsi&&heme=github_dark&hide_border=true&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF)
 
 ### 📊 Most Used Languages
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dreamervamsi&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dreamervamsi&layout=compact&theme=github_dark)
 
 ### 🌿 Contribution Activity Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dreamervamsi&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff)
