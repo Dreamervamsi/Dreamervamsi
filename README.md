@@ -110,6 +110,29 @@ const vamsiKrishna = {
 ---
 </div>
 
+## 🏗️ Featured Projects
+### [SME Growth Automation](https://github.com/Dreamervamsi/SME-Growth-Automation)
+> `Python` `Groq` `langgraph` `streamlit` `HuggingFace` `SQLite`
+
+- **Finalist — Agentic Arena 2026(National level hackathon organised by TechVerse Solutions)**
+-  Created four specialist agents that collaborate through shared memory.
+-  Cut latency by 40% using caching techniques.
+-  Implemented response streaming to deliver real-time agent outputs and improve user engagement.
+
+---
+
+## 🏆 Achievements
+
+| Medal | Achievement | Details |
+|-------|-------------|---------|
+| 🥇 | **Finalist — Agentic Arena Hackathon** | **top-50** outof **800+ participants** |
+| 🏅 | **MindSprint Hackathon (National)** | Runner-Up - **top 70** outof **600+ participants** |
+| 📦 | **Open Source** | 3 published npm packages with **900+ combined downloads** |
+
+---
+
+
+
 ## 🌐 Connect With Me
 
 <div align="center">
