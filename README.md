@@ -95,7 +95,7 @@ const vamsiKrishna = {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Dreamervamsi&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Dreamervamsi&show_icons=true&theme=github_dark&v=2)
 
 ### ⚡ My Coding Streak
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Dreamervamsi&theme=tokyonight)
