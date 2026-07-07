@@ -127,7 +127,7 @@ const vamsiKrishna = {
 |-------|-------------|---------|
 | 🥇 | **Finalist — Agentic Arena Hackathon** | **top-50** outof **800+ participants** |
 | 🏅 | **MindSprint Hackathon (National)** | Runner-Up - **top 70** outof **600+ participants** |
-| 📦 | **Open Source** | 3 published npm packages with **900+ combined downloads** |
+| 📦 | **Open Source** | 3 published npm packages with **1000+ combined downloads** |
 
 ---
 
