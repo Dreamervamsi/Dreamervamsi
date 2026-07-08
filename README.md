@@ -8,7 +8,7 @@
 
 <br/><br/>
 <!-- Sub-banner with rotating roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Agentic+Arena+Hackathon+Finalist+%F0%9F%8F%85;Full-Stack+Engineer;AI+Systems+Builder;B.Tech+IT+@+Bapatla+Engineering+College;Building+Agentic+AI+%26+Hybrid+RAG;Open+to+SDE+%26+AI+Engineer+roles" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=00D9FF&center=true&vCenter=true&width=750&lines=Agentic+Arena+Hackathon+FinalMaist+%F0%9F%8F%85;Full-Stack+Engineer;AI+Systems+Builder;B.Tech+IT+@+Bapatla+Engineering+College;Building+Agentic+AI+%26+Hybrid+RAG;Open+to+SDE+%26+AI+Engineer+roles" alt="Roles" />
 
 <br/><br/>
 
@@ -38,7 +38,7 @@ const vamsiKrishna = {
 
 <br/>
 
-## 🔨 Now — May 2026
+## 🔨 Now — July 2026
 > Actively building **production-level agentic tools**, exploring **MCP architecture**, and open to SDE & AI Engineer internships/roles.
 ---
 
