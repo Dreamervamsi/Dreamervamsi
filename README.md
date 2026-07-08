@@ -30,7 +30,7 @@ const vamsiKrishna = {
   location     : "Andhra Pradesh, India 🇮🇳",
   education    : "B.Tech IT @ Bapatla Engineering College | CGPA: 8.9/10",
   currentlyOn  : ["AI Agent Safety", "Hybrid RAG Pipelines", "Agentic Workflows"],
-  hackathons   : ["Finalist @ AgenticArena Hackathon, MindSprint Hackathon", "ByteQuest (Online)"],
+  hackathons   : ["🏆 Finalist @ AgenticArena Hackathon, MindSprint Hackathon", "ByteQuest (Online)"],
   philosophy   : "Build to adapt. Ground every claim. Ship production-grade AI. 🚀",
 };
 ```
